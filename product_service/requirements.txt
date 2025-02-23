@@ -1,0 +1,9 @@
+fastapi
+psycopg2-binary
+sqlalchemy
+uvicorn
+python-jose[cryptography]
+httpx
+aio_pika
+redis
+asyncpg

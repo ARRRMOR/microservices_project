@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+redis
+httpx
+pydantic
+pika
+python-jose[cryptography]

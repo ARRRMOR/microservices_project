@@ -1,0 +1,43 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Виртуальное окружение
+.venv/
+env/
+venv/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.iml
+
+# Логи
+*.log
+
+# Миграции SQLAlchemy
+migrations/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Тесты
+*.coveragerc
+coverage.xml
+nosetests.xml
+test-*.xml
+*.coveragerc
+
+# Прочее
+*.env
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
