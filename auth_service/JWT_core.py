@@ -1,7 +1,7 @@
 from jose import JWTError, jwt
 from datetime import datetime, timedelta
 
-SECRET_KEY = "fhjjahfjjhwjehfu29357u93ujrfikw3ht980034yhi9082" # Лучше брать из переменных окружения
+SECRET_KEY = "fhjjahfjjhwjehfu29357u93ujrfikw3ht980034yhi9082" 
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
